@@ -19,6 +19,7 @@ public class Main {
             line = bufreader.readLine();
             houses.add(line);
             System.out.println("");
+            System.out.println("");
 
         }
         //http://stackoverflow.com/questions/19461161/remove-a-string-from-an-array-list
